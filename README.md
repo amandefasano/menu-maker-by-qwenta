@@ -1,4 +1,4 @@
-# menu-maker-by-qwenta
+# Menu Maker by Qwenta
 Project n°9 of the OpenClassrooms software testing's diploma course
 
 ## Description
